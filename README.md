@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Alone-codes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Alone-codes/Alone-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in website Front-End designing 
+- 🌱 I’m currently learning React.js, HTML and CSS
+- 💞️ I’m looking to collaborate on full Stack Developers
+- 📫 How to reach me : Instagram - @stay_alone_still_alive, Gmail - vishwa7509@gmail.com
