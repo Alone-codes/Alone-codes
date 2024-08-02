@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alone-codes
+- 👋 Hi, I’m Vishwanathan Chelladuari
 - 👀 I’m interested in website Front-End designing 
 - 🌱 I’m currently learning React.js, HTML and CSS
 - 💞️ I’m looking to collaborate on full Stack Developers
