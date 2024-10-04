@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishwanathan Chelladuari
-- 👀 I’m interested in website Front-End designing 
-- 🌱 I’m currently learning React.js, HTML and CSS
+- 👀 I’m interested in website Front-End designing and ptython development 
+- 🌱 I’m expirence in python, angular.js, HTML and CSS
 - 💞️ I’m looking to collaborate on full Stack Developers
 - 📫 How to reach me : Instagram - @stay_alone_still_alive, Gmail - vishwa7509@gmail.com
